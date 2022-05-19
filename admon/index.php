@@ -9,65 +9,67 @@
 <body>
     <ul>
         <li><a class="active" href="index.php">Home</a></li>
-        <li><a href="Denuncias/Denuncias.php">Denuncias</a></li>
-        <li><a href="AcercaNosotros/Acerca.php">Acerca de nosotros</a></li>
-        <li><a href="Denuncias/Denuncias.php">Violencia</a></li>
-        <li style="float:right"><a href="PLogin/Login.php">Login</a></li>
+        <li><a href="..\Denuncias\Denuncias.php">Denuncias</a></li>
+        <li><a href="..\AcercaNosotros\Acerca.php">Acerca de nosotros</a></li>
+        <li><a href="..\Denuncias\Denuncias.php">Violencia</a></li>
+        <li><a href="#admon">Funciones de Administrador</a></li>
+        <li style="float:right"><a href="..\usuario\usuario.php">Eduardo</a></li>
     </ul>
 
 
-        <div class="Carousel">
-            <h2 style="margin-right: 200px">Tipos de violencia</h2>
-            <div class="slick-list" id="slick-list" style="margin-left: 200px;">
-            
-                <div class="slick-track" id="track">
-                    <div class="slick">
-                        <div>
-                            <a href="Denuncias/Denuncias.php">
-                                <h4><small>Verbal o psicológica</small>¡Informate aquí!</h4>
-                                <picture>
-                                    <img src="img/img4.jpg" alt="Image">
-                                </picture>
-                            </a>
-                        </div>
+    <div class="Carousel">
+        <h2 style="margin-right: 200px">Tipos de violencia</h2>
+        <div class="slick-list" id="slick-list" style="margin-left: 200px;">
+           
+            <div class="slick-track" id="track">
+                <div class="slick">
+                    <div>
+                        <a href="Denuncias/Denuncias.php">
+                            <h4><small>Verbal o psicológica</small>¡Informate aquí!</h4>
+                            <picture>
+                                <img src="img/img4.jpg" alt="Image">
+                            </picture>
+                        </a>
                     </div>
-                    <div class="slick">
-                        <div>
-                            <a href="Denuncias/Denuncias.php">
-                                <h4><small>Física</small>¡Informate aquí!</h4>
-                                <picture>
-                                    <img src="img/img3.jpg" alt="Image">
-                                </picture>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="slick">
-                        <div>
-                            <a href="Denuncias/Denuncias.php">
-                                <h4><small>Patrimonial</small>¡Informate aquí!</h4>
-                                <picture>
-                                    <img src="img/img5.jpg" alt="Image">
-                                </picture>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="slick">
-                        <div>
-                            <a href="Denuncias/Denuncias.php">
-                                <h4><small>Sexual</small>¡Informate aquí!</h4>
-                                <picture>
-                                    <img src="img/img6.jpg" alt="Image">
-                                </picture>
-                            </a>
-                        </div>
-                    </div>
-                    
                 </div>
+                <div class="slick">
+                    <div>
+                        <a href="Denuncias/Denuncias.php">
+                            <h4><small>Física</small>¡Informate aquí!</h4>
+                            <picture>
+                                <img src="img/img3.jpg" alt="Image">
+                            </picture>
+                        </a>
+                    </div>
+                </div>
+                <div class="slick">
+                    <div>
+                        <a href="Denuncias/Denuncias.php">
+                            <h4><small>Patrimonial</small>¡Informate aquí!</h4>
+                            <picture>
+                                <img src="img/img5.jpg" alt="Image">
+                            </picture>
+                        </a>
+                    </div>
+                </div>
+                <div class="slick">
+                    <div>
+                        <a href="Denuncias/Denuncias.php">
+                            <h4><small>Sexual</small>¡Informate aquí!</h4>
+                            <picture>
+                                <img src="img/img6.jpg" alt="Image">
+                            </picture>
+                        </a>
+                    </div>
+                </div>
+                
+            </div>
             
         </div>
 
-        <div style="margin-left: 100px" class="denu" style="color: white">
+        <div class="denu" style="color: white">
             <a href="Denuncias/Denuncias.php">¡Denuncia aquí si haz sufrido algún tipo de abuso!</a>
+            
         </div>
 
         <div class="Carousel">
