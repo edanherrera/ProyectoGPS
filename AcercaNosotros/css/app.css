@@ -45,7 +45,7 @@ ul {
   }
   
   .active {
-    background-color: #e6836a;
+    background-color:rgb(151, 226, 174);
     border-radius: 15px;
   
   }
@@ -88,7 +88,7 @@ footer {
     background-color: #333;
     position: absolute;
     bottom: 0;
-    width: 93%;
+    width: 93%; 
     height: 40px;
     color: white;
     left: 3.5%;

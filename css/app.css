@@ -50,7 +50,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #e6836a;
+  background-color: rgb(151, 226, 174);
   border-radius: 15px;
 
 }
@@ -71,7 +71,7 @@ footer {
 }
 
 .denu{
-  background-color: #e6836a;
+  background-color: rgb(151, 226, 174);
   color: white;
   margin-top: 10px;
   margin-bottom: 10px;

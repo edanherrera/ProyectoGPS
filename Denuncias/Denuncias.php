@@ -12,7 +12,7 @@
         <li><a class="active" href="..\index.php">Home</a></li>
         <li><a href="Denuncias.php">Denuncias</a></li>
         <li><a href="..\AcercaNosotros\Acerca.php">Acerca de nosotros</a></li>
-        <li><a href="..\Denuncias\Denuncias.php">Violencia</a></li>
+        <li><a href="..\tabla\index.php">Violencia</a></li>
         <li style="float:right"><a href="..\PLogin\Login.php">Login</a></li>
     </ul>
     <section class="form-register">
