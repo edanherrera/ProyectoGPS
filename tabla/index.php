@@ -13,7 +13,7 @@
     <div class="contenedor">
         <ul class="ul">
             <li class="li activo">Tipo de violencia</li>
-            <li class="li">Institución</li>
+            <li class="li">Sexo</li>
             <li class="li">Nivel de educación</li>
         </ul>
 
@@ -23,7 +23,7 @@
                     <table >
                         <thead>
                             <tr>
-                                <th>Institución</th><th>Nivel de educación</th><th>Lugar del incidente</th><th>Agresor</th><th>Tipo de Violencia</th><th>Descripción</th>
+                                <th>Institución</th><th>Nivel de educación</th><th>Lugar del incidente</th><th>Agresor</th><th>Tipo de Violencia</th><th>Descripción</th><th>Sexo</th>
                             </tr>
                         </thead>
                     </table>
@@ -34,7 +34,7 @@
                         <table >
                             <thead>
                                 <tr>
-                                    <th>Institución</th><th>Nivel de educación</th><th>Lugar del incidente</th><th>Agresor</th><th>Tipo de Violencia</th><th>Descripción</th>
+                                    <th>Institución</th><th>Nivel de educación</th><th>Lugar del incidente</th><th>Agresor</th><th>Tipo de Violencia</th><th>Descripción</th><th>Sexo</th>
                                 </tr>
                             </thead>
                         </table>
@@ -45,7 +45,7 @@
                     <table >
                         <thead>
                             <tr>
-                                <th>Institución</th><th>Nivel de educación</th><th>Lugar del incidente</th><th>Agresor</th><th>Tipo de Violencia</th><th>Descripción</th>
+                                <th>Institución</th><th>Nivel de educación</th><th>Lugar del incidente</th><th>Agresor</th><th>Tipo de Violencia</th><th>Descripción</th><th>Sexo</th>
                             </tr>
                         </thead>
                     </table>
